@@ -1,0 +1,8 @@
+{
+  "name": "Have fun",
+  "description": "Have fun",
+  "main": "src/havefun.js",
+  "dependencies": {
+    "tabris": "1.7.0"
+  }
+}
