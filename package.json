@@ -1,5 +1,5 @@
 {
-  "name": "Have fun",
+  "title": "Have fun",
   "description": "Have fun",
   "main": "src/havefun.js",
   "dependencies": {
